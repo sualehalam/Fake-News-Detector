@@ -38,7 +38,7 @@ These files have been combined into a single dataset for comprehensive analysis 
 ## Conclusion
 Our comprehensive analysis of various machine learning algorithms and NLP techniques for fake news detection has led to a notable finding. Among the models evaluated, the **Passive Aggressive Classifier** demonstrated superior performance, achieving an exceptional accuracy of **99.65%**. This model's incremental learning approach and scalability make it particularly effective for distinguishing between fake and genuine news.
 
-While these results are promising, they represent just a fraction of the potential in the field of fake news detection. Ongoing advancements and emerging algorithms continue to offer opportunities for further enhancements and more robust solutions.
+While these results are promising, they represent just a fraction of the potential in the field of fake news detection. Ongoing advancements and emerging algorithms continue to offer opportunities for further enhancements and more advanced solutions.
 
 
 # Authors
