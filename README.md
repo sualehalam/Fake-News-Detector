@@ -4,6 +4,7 @@
 
 In today's digital world, fake news has become alarmingly prevalent, making it increasingly difficult to discern fact from fiction. With misinformation spreading rapidly across social media and news platforms, the ability to accurately identify fake news is more crucial than ever. This dataset aims to address this challenge by providing a comprehensive collection of labelled news articles, offering a valuable resource for developing and testing models designed to detect and combat fake news effectively.
 
+----------
 ## Prerequisites
 
 * Python 3
