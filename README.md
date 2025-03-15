@@ -17,15 +17,15 @@ In today's digital world, fake news has become alarmingly prevalent, making it i
 
   
 ## Overview
-The Fake-News-Detector Dataset provides a separate curated collection of news articles labelled as either "Fake" or "Real" to aid in developing and evaluating fake news detection models. This dataset is designed to support machine learning and natural language processing (NLP) tasks focused on distinguishing between genuine and deceptive news content.
+The Fake-News-Detector Dataset provides a separate curated collection of news articles labelled as either "_Fake_" or "_Real_" to aid in developing and evaluating fake news detection models. This dataset is designed to support machine learning and natural language processing (NLP) tasks focused on distinguishing between genuine and deceptive news content.
 
   
 ## Dataset Description
 The dataset is composed of two separate Excel files:
 
-* Fake.xlsx: Contains news articles that are "Fake."
-* Real.xlsx: Contains news articles that are "Real."
-
+* Fake.xlsx: Contains news articles that are **"Fake."**
+* Real.xlsx: Contains news articles that are **"Real."**
+  
 ## Dataset Columns:
 
 1. Title: Title of the news article
