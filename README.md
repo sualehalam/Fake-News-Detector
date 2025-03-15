@@ -10,9 +10,9 @@ In today's digital world, fake news has become alarmingly prevalent, making it i
 * Pandas
 * Numpy
 * Seaborn
-* Sklearn
 * Matplotlib
 * NLTK
+* sklearn
 * mlxtend
 
   
