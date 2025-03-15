@@ -1,8 +1,8 @@
 # Fake News Detector
-In today's digital world, fake news has become alarmingly prevalent, making it increasingly difficult to discern fact from fiction. With misinformation spreading rapidly across social media and news platforms, the ability to accurately identify fake news is more crucial than ever. This dataset aims to address this challenge by providing a comprehensive collection of labelled news articles, offering a valuable resource for developing and testing models designed to detect and combat fake news effectively.
-
 
 ![image](https://github.com/user-attachments/assets/031e19db-b72e-4650-9d2e-9db6ebaf7340)
+
+In today's digital world, fake news has become alarmingly prevalent, making it increasingly difficult to discern fact from fiction. With misinformation spreading rapidly across social media and news platforms, the ability to accurately identify fake news is more crucial than ever. This dataset aims to address this challenge by providing a comprehensive collection of labelled news articles, offering a valuable resource for developing and testing models designed to detect and combat fake news effectively.
 
 ## Prerequisites
 
